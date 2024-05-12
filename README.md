@@ -8,10 +8,10 @@ The key innovation of CLIP is its ability to learn visual concepts directly from
 
 Overall, CLIP represents a significant advancement in AI understanding of multimodal data, bridging the semantic gap between images and text and demonstrating impressive generalization capabilities across various tasks.
 
-my task is to classify submission that match one of three new characters Mario, Frieren and Lae'zel (examples in the notebook).
+my task is to classify images that match one of three new characters Mario, Frieren and Lae'zel (examples in the notebook).
 
 Along with the notebook, you'll find a dataset consisting of the following files:
-- `images.tar`: a sample of images from DeviantArt
+- `images.tar`: a sample of images
 - `embeddings.npy`: CLIP embeddings for the same images
 - `test_set.csv`: a set of test labels for 100 images for three different characters
 
